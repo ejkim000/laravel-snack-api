@@ -22,6 +22,9 @@
 
 
 
+![snack-api](/public/images/snack-api.png)
+
+
 ## Workflow
 #### 1. Create a project
 * `composer create-project laravel/laravel snack`
@@ -56,3 +59,8 @@
 * Install tailwindcss, postcss, autoprefixer and update config file and give styles
 * `npm install -D tailwindcss postcss autoprefixer`
 * `npx tailwindcss init -p`
+
+---
+
+### Unsolved Task
+* The search bar on the top is a place holder for now.(No function yet)
